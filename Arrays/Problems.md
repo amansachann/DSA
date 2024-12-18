@@ -17,3 +17,17 @@ Day-13 : First Missing Positive
 
 ## Additional Questions
 1. Repetetive Addition of digits -- Done
+
+
+### Other Questions:
+1. Find Unique element in the array
+2. Union of two arrays
+3. Intersection of two arrays
+4. Pair Sum
+5. Triplet Sum
+6. Sort 0's and 1's 
+7. Sort 0's, 1's and 2's  --- Dutch National Flag Problem
+8. Check if array is sorted --- Done
+9. Check if array is sorted and rotated --- Done
+10. Linear Search -- Done
+11. Find missing number in an array -- Done
