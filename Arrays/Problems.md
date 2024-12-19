@@ -3,7 +3,7 @@
 Day-1 : Second Largest Element  -- Done
 Day-2 : Move all zeros to end  -- Done
 Day-3 : Reverse an array  -- Done
-Day-4 : Rotate an array
+Day-4 : Rotate an array -- Done
 Day-5 : Next Permutation
 Day-6 : Majority Element - II
 Day-7 : Stock Buy and Sell (With no Limit)
